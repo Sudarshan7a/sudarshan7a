@@ -103,6 +103,6 @@ Building **S‑Code** — a production‑focused, real‑time collaborative codi
 
 * ✉️ `sudarshan.programmer@gmail.com`
 * 🔗 LinkedIn: [https://www.linkedin.com/in/sudarshan-a-3412b5325/](https://www.linkedin.com/in/sudarshan-a-3412b5325/)
-* 📄 Resume: [https://drive.google.com/file/d/1Z5vmh8vy5EJiW1E0yJZeYO5QloL8hFnp/view?usp=sharing](https://drive.google.com/file/d/1Z5vmh8vy5EJiW1E0yJZeYO5QloL8hFnp/view?usp=sharing)
+* 📄 Resume: [https://drive.google.com/file/view?usp=sharing](https://drive.google.com/file/d/1Si5RC0UbJASZGYtbxyFwWCg1JXvXMv-l/view?usp=sharing)
 
 
