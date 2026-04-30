@@ -37,56 +37,60 @@ Building **S‑Code** — a production‑focused, real‑time collaborative codi
 
 ---
 <h3 align="left">Languages & Tools</h3>
+
+<!-- Languages -->
 <p align="left">
-  <!-- Languages -->
-  <strong>Languages:</strong>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="28" height="28"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="28" height="28"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="28" height="28"/>&nbsp;
-
-
-  <!-- Frontend -->
-  <strong>Frontend:</strong>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="28" height="28"/></a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" width="28" height="28"/></a>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="28" height="28"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="28" height="28"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="28" height="28"/>&nbsp;
-
-
-  <!-- Backend -->
-  <strong>Backend:</strong>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="28" height="28"/></a>&nbsp;
-  <d href="https://expressjs.com/" target="_blank" rel="noreferrer" > express </a>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript (backend)" width="28" height="28"/>&nbsp;
-
-
-  <!-- Databases -->
-  <strong>Databases:</strong>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="28" height="28"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" width="28" height="28"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="28" height="28"/>&nbsp;
-
-
-  <!-- Real-time -->
-  <strong>Real-time & Sync:</strong>
-  🔌 WebSockets · 🔁 CRDTs · WebRTC
-
-
-  <!-- DevOps & infra -->
-  <strong>DevOps & Infra:</strong>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="28" height="28"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="28" height="28"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="28" height="28"/>&nbsp;
-  Vercel · Render · Docker Compose
-
-
-  <!-- Tools & testing -->
-  <strong>Tools & testing:</strong>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="28" height="28"/>
-  VSCode · Zod (validation) · Jest · Lighthouse
+<strong>Languages:</strong><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
 </p>
 
+<!-- Frontend -->
+<p align="left">
+<strong>Frontend:</strong><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="28"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" width="28"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="28"/>
+</p>
+
+<!-- Backend -->
+<p align="left">
+<strong>Backend:</strong><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="28"/>
+<a href="https://expressjs.com/">Express</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/>
+</p>
+
+<!-- Databases -->
+<p align="left">
+<strong>Databases:</strong><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="28"/>
+</p>
+
+<!-- Others -->
+<p align="left">
+<strong>Real-time & Sync:</strong><br/>
+🔌 WebSockets · 🔁 CRDTs · WebRTC
+</p>
+
+<p align="left">
+<strong>DevOps & Infra:</strong><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/>
+Vercel · Render · Docker Compose
+</p>
+
+<p align="left">
+<strong>Tools & Testing:</strong><br/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="28"/>
+VSCode · Zod · Jest · Lighthouse
+</p>
 *The list above shows only technologies I use confidently in production and in my projects (focused on real-time systems, secure auth patterns, and full-stack TypeScript).*
 
 ---
