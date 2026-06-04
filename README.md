@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://s-code.live"><img src="https://img.shields.io/badge/Live%20Demo-S--Code-black?style=for-the-badge&logo=vercel"/></a>
-  <a href="https://www.linkedin.com/in/sudarshan-a-3412b5325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://s-code-live.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-S--Code-black?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://www.linkedin.com/in/sudarshan-a-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:sudarshan.programmer@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1NYZyyNkyaXi8w6WQoD77lK6rAlvvlOhx/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1POXxkX2uvnkeyDM_ApFXeJB4b-AKqamd/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
@@ -88,7 +88,7 @@ Applying:      Product-based SWE roles, Bengaluru + Remote
 I'm actively looking for SWE roles where I can work on real-time systems, developer tools, or product infrastructure.
 
 - ✉️ `sudarshan.programmer@gmail.com`
-- 🔗 [linkedin.com/in/sudarshan-a-3412b5325](https://www.linkedin.com/in/sudarshan-a-3412b5325/)
-- 📄 [Resume](https://drive.google.com/file/d/1NYZyyNkyaXi8w6WQoD77lK6rAlvvlOhx/view?usp=sharing)
+- 🔗 [linkedin.com/in/sudarshan-a-3412b5325](https://www.linkedin.com/in/sudarshan-a-dev)
+- 📄 [Resume](https://drive.google.com/file/d/1POXxkX2uvnkeyDM_ApFXeJB4b-AKqamd/view?usp=sharing)
 
 > *If you're a recruiter or hiring manager — my resume has everything you need. My projects are live and runnable, not just demo videos.*
