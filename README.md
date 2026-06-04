@@ -1,112 +1,94 @@
+<h1 align="center">Hey, I'm Sudarshan 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Sudarshan A (Sudupa)</h1>
-<h3 align="center">Final‑year Computer Science — Full‑stack & Real‑time systems engineer</h3>
+<p align="center">
+  <b>Final-year CSE @ Bengaluru &nbsp;·&nbsp; Full-Stack & Real-Time Systems &nbsp;·&nbsp; Open to SWE Roles (2025)</b>
+</p>
 
----
-
-
-## 🔎 One‑line
-
-Building **S‑Code** — a production‑focused, real‑time collaborative coding platform (Monaco + Yjs + WebSockets). Preparing for SWE internships (Google SDE intern — Summer 2026).
-
-## \:book: About me
-
-* 🧠 Final‑year CSE student — shipping reliable, secure developer tools
-* 🔧 Core focus: real‑time editors, sync algorithms, and developer UX
-* 🧩 Strengths: TypeScript, React/Next.js, Node.js, MongoDB/Postgres, Yjs, WebSockets, Docker, secure auth patterns
-* 🎯 Why follow: I publish practical engineering work you can run and evaluate (live demo links + clear readmes)
+<p align="center">
+  <a href="https://s-code.live"><img src="https://img.shields.io/badge/Live%20Demo-S--Code-black?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://www.linkedin.com/in/sudarshan-a-3412b5325/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:sudarshan.programmer@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1A3eyG8TwOBRqaeGHgbDxYv1CX8AHjEPZ/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠 What I'm working on
+## 🚀 What I Build
 
-```yaml
-- S-Code: real-time code collaboration — editor sync, room access control, auth and persistence
-- Interview prep: focused DSA & system design for SWE internships
+I build **real-time, production-ready systems** — collaborative editors, sync engines, and developer tools that actually work under load. My focus is on correctness, latency, and auth done right.
+
+> Currently targeting **SWE roles at product-based companies** · Available from **mid-2026** · Target: **10–16 LPA**
+
+---
+
+## 🔥 Featured Projects
+
+### [S-Code](https://s-code-live.vercel.app) — Real-Time Collaborative Code Editor
+> *The project I'm most proud of. Think Google Docs for code.*
+
+- **CRDT sync** via Y.js — conflict-free real-time editing across multiple users
+- **Role-based room access** — owner, editor, viewer permissions with JWT + refresh-token auth
+- **Video calls** via Stream SDK, **AI code assistance**, **sub-10ms** WebSocket sync
+- **Secure auth** — HTTP-only cookies, rate limiting, Zod validation end-to-end
+- Stack: `Next.js` · `Y.js` · `WebSockets` · `MongoDB` · `Redis` · `Stream SDK`
+- 🔗 [Live](https://s-code-live.vercel.app) · [GitHub](https://github.com/Sudarshan7a)
+
+---
+
+### [FlashMind](https://recall-iq-five.vercel.app/) — AI-Powered Spaced Repetition Study App
+> *Not just flashcards — a full learning science engine.*
+
+- **FSRS algorithm** (state-of-the-art spaced repetition, used by Anki) for optimal review scheduling
+- **Auto-generated flashcards** from any topic using Gemini AI + Groq
+- **Gamification engine** — streaks, XP, leaderboards to keep users coming back
+- Stack: `Next.js` · `TypeScript` · `PostgreSQL` · `Drizzle ORM` · `Gemini AI` · `Groq` · `Upstash Redis`
+- 🔗 [Live](https://recall-iq-five.vercel.app/)
+
+---
+
+### [WatchTogether](https://watch-together-qk70.onrender.com/) — P2P Watch Party Platform
+> *Watch anything in sync, with anyone, no account needed.*
+
+- **Sub-second video sync** across peers using WebRTC mesh networking
+- **Zero-account onboarding** — share a link, watch together instantly
+- Real-time chat via Socket.io alongside video playback
+- Stack: `Node.js` · `Socket.io` · `WebRTC` · `Express` · `Tailwind CSS`
+- 🔗 [Live](https://watch-together-qk70.onrender.com/)
+
+---
+
+## 🛠 Tech Stack
+
+```
+Languages:     TypeScript · JavaScript · Python
+Frontend:      Next.js · React · Tailwind CSS · HTML5 · CSS3
+Backend:       Node.js · Express · REST APIs · WebSockets
+Databases:     MongoDB · PostgreSQL · Redis
+Real-Time:     Y.js (CRDTs) · WebRTC · Socket.io
+Auth & Sec:    JWT · Refresh Tokens · HTTP-only Cookies · Zod · Rate Limiting
+DevOps:        Docker · Docker Compose · Vercel · Render · Linux · Git
+Tools:         Postman · VSCode · Drizzle ORM · Prisma
 ```
 
 ---
 
-## ✨ Selected highlights
+## 📈 Currently
 
-* **S‑Code (Real‑time collaboration)** — implemented Yjs + WebSocket sync, role‑based room access, and secure refresh‑token auth. (Live demo: [https://s-code.live](https://s-code.live))
-* **Secure auth & infra** — refresh‑token HTTP‑only cookie pattern, rate limiting, Zod validation, and secure cookie management (used across my projects).
-* **Real deployments** — end‑to‑end demo deployed on Render/Vercel with Dockerized services.
-
-*(Full list: [https://github.com/Sudarshan7a?tab=repositories](https://github.com/Sudarshan7a?tab=repositories))*
-
----
-<h3 align="left">Languages & Tools</h3>
-
-<!-- Languages -->
-<p align="left">
-<strong>Languages:</strong><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28"/>
-</p>
-
-<!-- Frontend -->
-<p align="left">
-<strong>Frontend:</strong><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="28"/>
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" width="28"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="28"/>
-</p>
-
-<!-- Backend -->
-<p align="left">
-<strong>Backend:</strong><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="28"/>
-<a href="https://expressjs.com/">Express</a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/>
-</p>
-
-<!-- Databases -->
-<p align="left">
-<strong>Databases:</strong><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="28"/>
-</p>
-
-<!-- Others -->
-<p align="left">
-<strong>Real-time & Sync:</strong><br/>
-🔌 WebSockets · 🔁 CRDTs · WebRTC
-</p>
-
-<p align="left">
-<strong>DevOps & Infra:</strong><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28"/>
-Vercel · Render · Docker Compose
-</p>
-
-<p align="left">
-<strong>Tools & Testing:</strong><br/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="28"/>
-VSCode · Zod · Jest · Lighthouse
-</p>
-*The list above shows only technologies I use confidently in production and in my projects (focused on real-time systems, secure auth patterns, and full-stack TypeScript).*
+```yaml
+Shipping:      S-Code v2 — scaling infra, adding multi-language support
+Grinding:      DSA (Arrays → Strings → Sliding Window → Trees)
+Studying:      System Design — consistent hashing, CAP theorem, distributed locks
+Applying:      Product-based SWE roles, Bengaluru + Remote
+```
 
 ---
 
-## 📂 Projects (highlighted)
+## 📫 Let's Talk
 
-* **S‑Code** — `s-code` (live demo, sync engine with Yjs, room access controls)
-* **Auth toolkit** — sample repository demonstrating refresh‑token secure flow, rate limiting, and middleware for Next.js
-* **DSA utilities** — curated notes & scripts for interview practice (gists + private repo links available on request)
+I'm actively looking for SWE roles where I can work on real-time systems, developer tools, or product infrastructure.
 
----
+- ✉️ `sudarshan.programmer@gmail.com`
+- 🔗 [linkedin.com/in/sudarshan-a-3412b5325](https://www.linkedin.com/in/sudarshan-a-3412b5325/)
+- 📄 [Resume](https://drive.google.com/file/d/1A3eyG8TwOBRqaeGHgbDxYv1CX8AHjEPZ/view?usp=sharing)
 
-## 📫 Contact & hire
-
-* ✉️ `sudarshan.programmer@gmail.com`
-* 🔗 LinkedIn: [https://www.linkedin.com/in/sudarshan-a-3412b5325/](https://www.linkedin.com/in/sudarshan-a-3412b5325/)
-* 📄 Resume: [https://drive.google.com/file/view?usp=sharing](https://drive.google.com/file/d/1Si5RC0UbJASZGYtbxyFwWCg1JXvXMv-l/view?usp=sharing)
-
-
+> *If you're a recruiter or hiring manager — my resume has everything you need. My projects are live and runnable, not just demo videos.*
