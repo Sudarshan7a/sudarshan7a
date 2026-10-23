@@ -8,7 +8,7 @@
   <a href="https://s-code-live.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-S--Code-black?style=for-the-badge&logo=vercel"/></a>
   <a href="https://www.linkedin.com/in/sudarshan-a-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:sudarshan.programmer@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1POXxkX2uvnkeyDM_ApFXeJB4b-AKqamd/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  
 </p>
 
 ---
